@@ -1,0 +1,15 @@
+para rodar a aplicação node
+
+npm run dev ou yarn dev
+
+para rodar a aplicação front end
+
+npm start
+
+para preencher os dados da tabela de seed
+
+npm run seed
+
+Configurar o servidor na pasta server/src/controllers/itensControler.tsx => configurar o ip da máquina
+
+Configurar também o servidor mobile na pasta mobile/src/services/api.ts => configurar para o mesmo ip da máquina
